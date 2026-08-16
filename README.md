@@ -6,8 +6,6 @@
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Open_TrustID-0f766e?style=for-the-badge&logo=vercel&logoColor=white)](https://trust-id-ubid-intelligence.vercel.app/)
 [![Backend Health](https://img.shields.io/badge/Render_API-Live-16a34a?style=for-the-badge&logo=render&logoColor=white)](https://trustid-ubid-intelligence.onrender.com/api/health)
-[![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![Node.js](https://img.shields.io/badge/Node.js-Express-1f2937?style=for-the-badge&logo=node.js&logoColor=5FA04E)](https://nodejs.org/)
 [![Top 50](https://img.shields.io/badge/AI_for_Bharat-Top_50_in_India-f59e0b?style=for-the-badge)](#recognition)
 
 <br/>
