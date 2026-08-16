@@ -686,9 +686,7 @@ It does not represent an operational Government of Karnataka platform and should
      alt="TrustID Repository"/>
 </a>
 
-<br><br>
-
-*Built independently for the AI for Bharat Hackathon — Top 50 across India.*
+*Selected among the Top 50 teams nationwide at the AI for Bharat Hackathon 2026, co-presented by PAN IIT Bangalore Alumni Association and Government of Karnataka, for independently building TrustID as a solo participant.*
 
 ⭐ **If you found the project useful or interesting, consider starring the repository.**
 
