@@ -1,4 +1,4 @@
-# TrustID
+# 🔐TrustID
 
 ### Adversarially Robust Unified Business Identifier & Active Business Intelligence Platform
 
