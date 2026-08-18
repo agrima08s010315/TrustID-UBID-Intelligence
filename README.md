@@ -22,7 +22,7 @@
 
 ## 🏆 Recognition
 
-> **Selected among the Top 50 teams across India**
+> **Selected among the Top 50 teams across India, emerging as a Finalist for AI for Bharat Hackathon**
 
 TrustID was independently developed as a **solo project** for the national-level **AI for Bharat Hackathon**, organized by the **PanIIT Bangalore Alumni Association** in association with the **Government of Karnataka**.
 
