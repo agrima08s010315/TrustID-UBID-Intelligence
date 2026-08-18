@@ -16,17 +16,15 @@
 
 <br/>
 
-**Independently designed and built by [Agrima Saxena](https://github.com/agcodes0315) as a solo participant for the AI for Bharat Hackathon — Theme 1: Unified Business Identifier and Active Business Intelligence by Karnataka Commerce & Industry.**
+**Independently designed and built for the AI for Bharat Hackathon: Theme 1: Unified Business Identifier and Active Business Intelligence by Karnataka Commerce & Industry.**
 
 ---
 
 ## 🏆 Recognition
 
-> **Selected among the Top 50 teams across India from 1,000+ submissions.**
+> **Selected among the Top 50 teams across India**
 
 TrustID was independently developed as a **solo project** for the national-level **AI for Bharat Hackathon**, organized by the **PanIIT Bangalore Alumni Association** in association with the **Government of Karnataka**.
-
-The project addressed **Theme 1 — Unified Business Identifier and Active Business Intelligence**, proposed by Karnataka Commerce & Industry.
 
 ---
 
