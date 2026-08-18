@@ -16,7 +16,7 @@
 
 <br/>
 
-**Independently designed and built by [Agrima Saxena](https://github.com/agrima08s010315) as a solo participant for the AI for Bharat Hackathon — Theme 1: Unified Business Identifier and Active Business Intelligence by Karnataka Commerce & Industry.**
+**Independently designed and built by [Agrima Saxena](https://github.com/agcodes0315) as a solo participant for the AI for Bharat Hackathon — Theme 1: Unified Business Identifier and Active Business Intelligence by Karnataka Commerce & Industry.**
 
 ---
 
@@ -483,7 +483,7 @@ npm
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/agrima08s010315/TrustID-UBID-Intelligence.git
+git clone https://github.com/agcodes0315/TrustID-UBID-Intelligence.git
 cd TrustID-UBID-Intelligence
 ```
 
@@ -663,7 +663,7 @@ It does not represent an operational Government of Karnataka platform and should
 </td>
 
 <td width="60">
-<a href="https://github.com/agrima08s010315" title="GitHub">
+<a href="https://github.com/agcodes0315" title="GitHub">
 <img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png"
      width="32"
      height="32"
@@ -679,7 +679,7 @@ It does not represent an operational Government of Karnataka platform and should
      alt="TrustID Live Demo"/>
 </a>
 
-<a href="https://github.com/agrima08s010315/TrustID-UBID-Intelligence">
+<a href="https://github.com/agcodes0315/TrustID-UBID-Intelligence">
 <img src="https://img.shields.io/badge/GitHub-View%20Repository-181717?style=flat-square&logo=github&logoColor=white"
      alt="TrustID Repository"/>
 </a>
